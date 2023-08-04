@@ -12,7 +12,7 @@ Analyze Twitter sentiment using Python and the Tweepy and TextBlob libraries. Th
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/yourusername/twitter-sentiment-analysis.git`
+1. Clone the repository: `https://github.com/Harish7777777?tab=repositories`
 2. Install the required libraries: `pip install tweepy textblob`
 3. Set up your Twitter API credentials in the `config.py` file.
 4. Run the `sentiment_analysis.py` script to analyze tweets and view sentiment results.
